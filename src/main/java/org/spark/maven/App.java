@@ -1,5 +1,4 @@
 package org.spark.maven;
-import spark.Spark.*;
 
 /**
  * Hello world!
