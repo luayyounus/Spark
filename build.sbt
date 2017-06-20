@@ -1,0 +1,1 @@
+libraryDependencies += "com.sparkjava" % "spark-core" % "2.6.0"
